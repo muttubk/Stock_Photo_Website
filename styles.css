@@ -1,0 +1,35 @@
+/*Navigation*/
+.navbar {
+    border-bottom: none;
+    margin-bottom: 2em;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-right: 1em;
+  }
+  
+  .nav-link.active {
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 0.25em;
+    padding: 0.5em;
+  }
+  
+    /* Styles for footer */
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    
+    p {
+      font-size: 0.9rem;
+    }
